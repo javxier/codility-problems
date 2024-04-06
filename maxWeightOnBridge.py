@@ -1,6 +1,6 @@
-# find the minimum # of drivers turning back to prevent overload
-# an example // if we set the maxWeight to 9, we cannot have vehicles enter, they need to turn    
-# N is an integer within the range [1... 1000000000]    
+# find minimum # of drivers turning back to prevent overload
+# ex. if we set maxWeight = 9, we can't have vehicles enter, they need to turn    
+# N is an integer within the range [1...1,000,000,000]    
 
 def solution(U, weight):
 
